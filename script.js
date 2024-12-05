@@ -1,5 +1,65 @@
 const product = [
     {
+        image:'./images/produ1.jpg' ,
+        title: 'خيط حرير SILK',
+        price: "40",
+    },
+    {
+        image:'./images/produ2.jpg' ,
+        title: 'كادليز لكبار السن الباكيت',
+        price: "400",
+    },
+    {
+        image:'./images/produ4.jpg' ,
+        title: 'جونتي',
+        price: "25",
+    },
+    {
+        image:'./images/produ5.png' ,
+        title: 'قسطرة شفط بيضاء',
+        price: "10",
+    },
+    {
+        image:'./images/produ6.jpg' ,
+        title: 'ترمومتر زئبقي القطعة',
+        price: "45",
+    },
+    {
+        image:'./images/produ7.jpg' ,
+        title: 'جهاز سكر',
+        price: "500",
+    },
+    {
+        image:'./images/produ8.jpg' ,
+        title: 'جهاز جلسات',
+        price: "1150",
+    },
+    {
+        image:'./images/produ9.jpg' ,
+        title: 'حقنة انسولين القطعة',
+        price: "4",
+    },
+    {
+        image:'./images/produ9.jpg' ,
+        title: 'حقنة انسولين الكيس',
+        price: "40",
+    },
+    {
+        image:'./images/produ10.jpg' ,
+        title: 'محلول ملح القطعة',
+        price: "???",
+    },
+    {
+        image:'./images/produ3.jpg' ,
+        title: 'شكاكة سكر العلبة',
+        price: "???",
+    },
+    {
+        image:'./images/produ10.jpg' ,
+        title: 'محلول ملح الكرتونة',
+        price: "350",
+    },
+    {
         image:'./images/product73.jpg' ,
         title: 'Tri M strip',
         price: "???",
@@ -156,7 +216,7 @@ const product = [
     },
     {
         image:'./images/product35.jpg' ,
-        title: 'ماء اوكسجين نركيزات القطعة',
+        title: 'ماء اوكسجين تركيزات القطعة',
         price: 10,
     },
     {
@@ -281,7 +341,7 @@ const product = [
     },
     {
         image:'./images/product60.jpg' ,
-        title: 'نرمومنر وئبقي القطعة',
+        title: 'ترمومتر زئبقي القطعة',
         price: 35,
     },
     {
