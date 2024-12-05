@@ -47,12 +47,27 @@ const product = [
     {
         image:'./images/produ10.jpg' ,
         title: 'محلول ملح القطعة',
-        price: "???",
+        price: "20",
+    },
+    {
+        image:'./images/produ11.jpg' ,
+        title: 'جونتي شفاف الكيس',
+        price: "20",
+    },
+    {
+        image:'./images/produ12.jpg' ,
+        title: 'شاحن جهاز الضغط الديجتال',
+        price: "50",
+    },
+    {
+        image:'./images/produ13.jpg' ,
+        title: 'جهاز ضغط ديجتال',
+        price: "1050",
     },
     {
         image:'./images/produ3.jpg' ,
         title: 'شكاكة سكر العلبة',
-        price: "???",
+        price: "40",
     },
     {
         image:'./images/produ10.jpg' ,
@@ -246,7 +261,12 @@ const product = [
     },
     {
         image:'./images/product43.jpg' ,
-        title: 'كلبس مراره القطعة',
+        title: 'كلبس (دبابيس) خضراء القطعة',
+        price: 150,
+    },
+    {
+        image:'./images/product43.jpg' ,
+        title: 'كلبس (دبابيس) صفراء القطعة',
         price: 150,
     },
     {
@@ -461,7 +481,7 @@ const product = [
     },
     {
         image:'./images/product85.jpg' ,
-        title: 'Digital thermometer ',
+        title: 'ترمومنر ديجيتال ',
         price: 50,
     },
     {
