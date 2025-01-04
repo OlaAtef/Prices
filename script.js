@@ -77,16 +77,16 @@ const product = [
     {
         image:'./images/product73.jpg' ,
         title: 'Tri M strip',
-        price: "???",
+        price: "3",
     },
     {
         image:'./images/product79.jpg' ,
-        title: '؟؟؟',
-        price: "???",
+        title: 'وصلة تشفيط',
+        price: 30,
     },
     {
         image:'./images/product1.jpeg' ,
-        title: 'Biotest',
+        title: 'شرائط Biotest',
         price: 270,
     },
     {
@@ -101,12 +101,12 @@ const product = [
     },
     {
         image:'./images/product4.jpg' ,
-        title: 'TUORen',
+        title: 'جهاز PCA',
         price: 550,
     },
     {
         image:'./images/product5.jpeg' ,
-        title: 'GlucoDr.auto',
+        title: 'شرائط GlucoDr.auto ',
         price: 550,
     },
     {
@@ -126,8 +126,13 @@ const product = [
     },
     {
         image:'./images/product9.jpeg' ,
-        title: ' Tempo تيمبو كول',
+        title: ' Tempo تيمبو كول العلبة',
         price: 30,
+    },
+    {
+        image:'./images/product9.jpeg' ,
+        title: ' Tempo تيمبو كول الكيس',
+        price: 15,
     },
     {
         image:'./images/product10.jpg' ,
@@ -187,7 +192,7 @@ const product = [
     {
         image:'./images/product22.jpg' ,
         title: 'جهاز وريد',
-        price: 15,
+        price: 10,
     },
     {
         image:'./images/product23.jpg' ,
@@ -226,7 +231,7 @@ const product = [
     },
     {
         image:'./images/product34.jpg' ,
-        title: 'برمنجنات بوناسيوم القطعة',
+        title: 'برمنجنات بوتاسيوم القطعة',
         price: 10,
     },
     {
@@ -262,7 +267,7 @@ const product = [
     {
         image:'./images/product43.jpg' ,
         title: 'كلبس (دبابيس) خضراء القطعة',
-        price: 150,
+        price: 160,
     },
     {
         image:'./images/product43.jpg' ,
@@ -301,8 +306,8 @@ const product = [
     },
     {
         image:'./images/product50.jpg' ,
-        title: 'EG-VAC شفاط ذاتي',
-        price: 100,
+        title: 'EG-VAC درنقه - شفاط ذاتي',
+        price: 80,
     },
     {
         image:'./images/product51.jpg' ,
@@ -376,13 +381,43 @@ const product = [
     },
     {
         image:'./images/product62.jpg' ,
-        title: 'شاش',
+        title: 'شاش القطعة الكبيره',
         price: 8,
+    },
+    {
+        image:'./images/product62.jpg' ,
+        title: 'الشاش الكبير الكيس',
+        price: 40,
+    },
+    {
+        image:'./images/product62.jpg' ,
+        title: 'الشاش الصغير الكيس',
+        price: 60,
+    },
+    {
+        image:'./images/product62.jpg' ,
+        title: 'شاش القطعة الصغيره',
+        price: 6,
     },
     {
         image:'./images/product63.jpg' ,
         title: 'قطن الكيلو',
         price: 100,
+    },
+    {
+        image:'./images/product63.jpg' ,
+        title: 'قطن ال 100 جرام',
+        price: 15,
+    },
+    {
+        image:'./images/product63.jpg' ,
+        title: 'قطن ال 250 جرام',
+        price: 25,
+    },
+    {
+        image:'./images/product63.jpg' ,
+        title: 'قطن ال 500 جرام',
+        price: 50,
     },
     {
         image:'./images/product64.jpg' ,
@@ -536,8 +571,13 @@ const product = [
     },
     {
         image:'./images/product96.jpg' ,
-        title: 'قسطره غسيل كلوي ',
+        title: ' قسطرة غسيل كلوي ثنائي ماهوكر ',
         price: 600,
+    },
+    {
+        image:'./images/product96.jpg' ,
+        title: ' قسطرة غسيل كلوي ثلاثي ماهوكر ',
+        price: 1100,
     },
     {
         image:'./images/product97.jpg' ,
@@ -572,15 +612,190 @@ const product = [
     {
         image:'./images/product103.jpg' ,
         title: 'ماسك سباب yuwell ',
-        price: 700,
+        price: 1300,
     },
     {
         image:'./images/product105.jpg' ,
         title: 'جونتي انتي فيروس',
         price: 60,
     },
+    {
+        image:'./images/product111.jpg' ,
+        title: 'خلات رصاص',
+        price: 10,
+    },
+    {
+        image:'./images/product112.png' ,
+        title: 'عكاز',
+        price: 280,
+    },
+    {
+        image:'./images/product113.jpg' ,
+        title: 'ديبريفان',
+        price: 200,
+    },
+    {
+        image:'./images/product114.jpg' ,
+        title: 'شبكة بورلين 6 * 11 القطعة',
+        price: 250,
+    },
+    {
+        image:'./images/product114.jpg' ,
+        title: 'شبكة بورلين 15 * 15 القطعة',
+        price: 500,
+    },
+    {
+        image:'./images/product114.jpg' ,
+        title: 'شبكة بورلين 30 * 30 القطعة',
+        price: 1000,
+    },
+    {
+        image:'./images/product115.jpg' ,
+        title: 'اختبار حمل',
+        price: 10,
+    },
+    {
+        image:'./images/product116.jpg' ,
+        title: 'كمامة القطعة',
+        price: 2,
+    },
+    {
+        image:'./images/product116.jpg' ,
+        title: 'كمامة العلبه',
+        price: 60,
+    },
+    {
+        image:'./images/product117.jpg' ,
+        title: 'رايل احمر - برتقالي - ابيض',
+        price: 15,
+    },
+    {
+        image:'./images/product118.jpg' ,
+        title: 'معصم',
+        price: 40,
+    },
+    {
+        image:'./images/product123.jpg' ,
+        title: 'كيس قسطرة - كيس تجميع البول',
+        price: 20,
+    },
+    {
+        image:'./images/product124.jpg' ,
+        title: 'حشو انفي',
+        price: 50,
+    },
+    {
+        image:'./images/product125.jpg' ,
+        title: 'شراب دوالي',
+        price: 100,
+    },
+    {
+        image:'./images/product126.jpg' ,
+        title: 'حزام فقرات',
+        price: 100,
+    },
+    {
+        image:'./images/product127.jpg' ,
+        title: 'ساند ظهر',
+        price: 100,
+    },
+    {
+        image:'./images/product128.jpg' ,
+        title: 'شفاط ثدي',
+        price: 25,
+    },
+    {
+        image:'./images/product129.jpg' ,
+        title: 'ببرونة',
+        price: 20,
+    },
+    {
+        image:'./images/product130.jpg' ,
+        title: 'حلمة ببرونة',
+        price: 10,
+    },
+    {
+        image:'./images/product131.jpg' ,
+        title: 'حقنه شرجيه',
+        price: 70,
+    },
+    {
+        image:'./images/product132.jpg' ,
+        title: 'overhead cover بالكيس',
+        price: 100,
+    },
+    {
+        image:'./images/product133.jpg' ,
+        title: 'سكاتة',
+        price: 15,
+    },
+    {
+        image:'./images/product134.jpg' ,
+        title: 'جهاز نقل دم',
+        price: 20,
+    },
+    {
+        image:'./images/product135.jpg' ,
+        title: 'ترمومتر ديجيتال',
+        price: 50,
+    },
+    {
+        image:'./images/product136.jpg' ,
+        title: 'ركبه مفتوحة',
+        price: 50,
+    },
+    {
+        image:'./images/product137.jpg' ,
+        title: 'كلبس سره',
+        price: 10,
+    },
+    {
+        image:'./images/product138.jpg' ,
+        title: 'دعامة انف',
+        price: 50,
+    },
+    {
+        image:'./images/product139.jpg' ,
+        title: 'وصله وريديه',
+        price: 20,
+    },
+    // {
+    //     image:'./images/product141.jpg' ,
+    //     title: 'طحال الانف الخارجي ?',
+    //     price: '??',
+    // },
+    {
+        image:'./images/product142.jpg' ,
+        title: 'مشاية',
+        price: 250,
+    },
+    {
+        image:'./images/product143.jpg' ,
+        title: 'قصرية سريريه',
+        price: 25,
+    },
+    {
+        image:'./images/product144.jpg' ,
+        title: 'ماسك اوكسجين',
+        price: 20,
+    },
+    {
+        image:'./images/product145.jpg' ,
+        title: 'منظم محاليل ',
+        price: 50,
+    },
+    {
+        image:'./images/product146.jpg' ,
+        title: 'مخدر ايزو ',
+        price: '850',
+    },
 ]
-const categories = [...new Set(product.map((item)=> {return item}))]
+const categories = [
+                    ...new Set(product.map((item)=> {
+                        return item
+                    })
+                )
+]
 document.getElementById('searchBar').addEventListener('keyup', (e)=>{
     const searchData = e.target.value.toLowerCase();
     const filterData = categories.filter((item)=>{
