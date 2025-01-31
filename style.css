@@ -183,7 +183,7 @@ h2{
         grid-template-columns: repeat(3, 1fr);
         }
         .img-box{
-            height:205px;
+            height:200px;
         }
         h2{
             font-size: 18px;
