@@ -1,33 +1,40 @@
 const product = [
     {
-        image:'./images/produ1.jpg' ,
-        title: 'خيط حرير SILK',
-        price: "40",
+        image:'./images/product222.png' ,
+        title: ' Aero Chamber',
+        price: "120",
+    },
+    {
+        image:'./images/product333.jpg' ,
+        title: 'Aero Chamber ',
+        price: "80",
+    },
+    {
+        image:'./images/product555.jpg' ,
+        title: ' دعامة اصبع',
+        price: "50",
     },
     {
         image:'./images/produ2.jpg' ,
         title: 'كادليز لكبار السن الباكيت',
         price: "400",
     },
+
     {
-        image:'./images/produ4.jpg' ,
-        title: 'جونتي',
-        price: "25",
+        image:'./images/product4.jpg' ,
+        title: 'جهاز PCA',
+        price: 550,
     },
     {
-        image:'./images/produ5.png' ,
-        title: 'قسطرة شفط بيضاء',
-        price: "10",
+        image:'./images/product7.png' ,
+        title: 'Pulse',
+        price: 225,
     },
+
     {
-        image:'./images/produ6.jpg' ,
-        title: 'ترمومتر زئبقي القطعة',
-        price: "45",
-    },
-    {
-        image:'./images/produ7.jpg' ,
-        title: 'جهاز سكر',
-        price: "500",
+        image:'./images/product1.jpeg' ,
+        title: 'شرائط Biotest',
+        price: 270,
     },
     {
         image:'./images/produ8.jpg' ,
@@ -47,7 +54,7 @@ const product = [
     {
         image:'./images/produ10.jpg' ,
         title: 'محلول ملح القطعة',
-        price: "20",
+        price: "24",
     },
     {
         image:'./images/produ11.jpg' ,
@@ -60,6 +67,11 @@ const product = [
         price: "50",
     },
     {
+        image:'./images/produ1.jpg' ,
+        title: 'خيط حرير SILK',
+        price: "40",
+    },
+    {
         image:'./images/produ13.jpg' ,
         title: 'جهاز ضغط ديجتال',
         price: "1050",
@@ -70,9 +82,9 @@ const product = [
         price: "40",
     },
     {
-        image:'./images/produ10.jpg' ,
-        title: 'محلول ملح الكرتونة',
-        price: "350",
+        image:'./images/produ4.jpg' ,
+        title: 'جونتي عمال',
+        price: "25",
     },
     {
         image:'./images/product73.jpg' ,
@@ -85,9 +97,9 @@ const product = [
         price: 30,
     },
     {
-        image:'./images/product1.jpeg' ,
-        title: 'شرائط Biotest',
-        price: 270,
+        image:'./images/produ7.jpg' ,
+        title: 'جهاز سكر',
+        price: "500",
     },
     {
         image:'./images/product109.png' ,
@@ -100,9 +112,9 @@ const product = [
         price: 90,
     },
     {
-        image:'./images/product4.jpg' ,
-        title: 'جهاز PCA',
-        price: 550,
+        image:'./images/produ6.jpg' ,
+        title: 'ترمومتر زئبقي القطعة',
+        price: "45",
     },
     {
         image:'./images/product5.jpeg' ,
@@ -115,9 +127,9 @@ const product = [
         price: 175,
     },
     {
-        image:'./images/product7.png' ,
-        title: 'Pulse',
-        price: 225,
+        image:'./images/produ5.png' ,
+        title: 'قسطرة شفط بيضاء',
+        price: "10",
     },
     {
         image:'./images/product8.webp' ,
@@ -136,8 +148,8 @@ const product = [
     },
     {
         image:'./images/product10.jpg' ,
-        title: 'قسطره وريديه مركزيه  ',
-        price: 380,
+        title: 'CVB قسطره وريديه مركزيه  ',
+        price: 500,
     },
     {
         image:'./images/product12.jpeg' ,
@@ -196,8 +208,8 @@ const product = [
     },
     {
         image:'./images/product23.jpg' ,
-        title: 'سبيروميتر unicare',
-        price: 60,
+        title: 'سبيروميتر Spirometer',
+        price: 70,
     },
     {
         image:'./images/product25.jpg' ,
@@ -662,7 +674,7 @@ const product = [
     {
         image:'./images/product116.jpg' ,
         title: 'كمامة العلبه',
-        price: 60,
+        price: 70,
     },
     {
         image:'./images/product117.jpg' ,
